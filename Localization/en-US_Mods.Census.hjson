@@ -52,7 +52,7 @@ SpawnConditions: {
 	Merchant: Have [i/s50:SilverCoin] in your inventory
 	Nurse: Have more than 100 HP and the Merchant has arrived
 	Demolitionist: Have an explosive in your inventory and the Merchant has arrived
-	DyeTrader: Have a dye/dye plant/Strange Plant/Dye Vat and at least 4 other town NPCs have arrived
+	DyeTrader: Have a dye/dye plant/Strange Plant/Dye Vat in your inventory and at least 4 other town NPCs have arrived
 	Angler: Find on the ocean
 	BestiaryGirl: Fill at least 10% of the bestiary
 	Dryad:
@@ -71,13 +71,13 @@ SpawnConditions: {
 	Mechanic: Find in the Dungeon
 	PartyGirl: Has a low chance to arrive after at least 14 other town NPCs are present
 	Wizard: Find in the cavern layer in Hardmode
-	TaxCollector: In Hardmode, purify a Tortured Soul with {$ItemName.PurificationPowder} [i:PurificationPowder] in the underworld
+	TaxCollector: In Hardmode, purify a Tortured Soul with {$ItemName.PurificationPowder} [i:PurificationPowder] in the Underworld
 	Truffle: In Hardmode, build a house in the surface Glowing Mushroom biome
 	Pirate: When a Pirate invasion has been defeated
 	Steampunker: When any Mechanical boss has been defeated
 	Cyborg: When Plantera has been defeated
-	SantaClaus: When the Frost Legion has been defeated, only during December 15-31
-	Princess: Have all vanilla town NPCs have arrived
+	SantaClaus: When the Frost Legion has been defeated, only during the Christmas
+	Princess: Have all vanilla town NPCs (except Santa Claus) have arrived
 	TownCat: Use {$ItemName.LicenseCat} [i:LicenseCat], sold by the Zoologist
 	TownDog: Use {$ItemName.LicenseDog} [i:LicenseDog], sold by the Zoologist
 	TownBunny: Use {$ItemName.LicenseBunny} [i:LicenseBunny], sold by the Zoologist
