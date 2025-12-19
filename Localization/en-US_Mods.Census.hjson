@@ -74,7 +74,7 @@ SpawnConditions: {
 	TaxCollector: In Hardmode, purify a Tortured Soul with {$ItemName.PurificationPowder} [i:PurificationPowder] in the Underworld
 	Truffle: In Hardmode, build a house in the surface Glowing Mushroom biome
 	Pirate: Defeat a Pirate invasion
-	Steampunker: Defeat any Mechanical bossФ
+	Steampunker: Defeat any Mechanical boss
 	Cyborg: Defeat Plantera
 	SantaClaus: During the Christmas event after the Frost Legion has been defeated
 	Princess: Have all of the vanilla town NPCs (except Santa Claus) present in your world
