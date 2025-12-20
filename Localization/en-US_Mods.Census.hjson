@@ -57,7 +57,7 @@ SpawnConditions: {
 	BestiaryGirl: Fill at least 10% of the Bestiary
 	Dryad:
 		'''
-		Defeat either the Eye of Cthulhu,
+		Defeat the Eye of Cthulhu,
 		Eater of Worlds, Brain of Cthulhu, or Skeletron
 		'''
 	Painter: Have at least 8 other town NPCs arrived
@@ -69,7 +69,7 @@ SpawnConditions: {
 	WitchDoctor: Defeat the Queen Bee
 	Clothier: Defeat Skeletron
 	Mechanic: Find in the Dungeon
-	PartyGirl: Has a low chance to of arriving after at least 14 other town NPCs have arrived
+	PartyGirl: Has a low chance of arriving after at least 14 other town NPCs have arrived
 	Wizard: Find in the Cavern layer in Hardmode
 	TaxCollector: In Hardmode, purify a Tortured Soul with {$ItemName.PurificationPowder} [i:PurificationPowder] in the Underworld
 	Truffle: In Hardmode, build a house in the surface Glowing Mushroom biome
